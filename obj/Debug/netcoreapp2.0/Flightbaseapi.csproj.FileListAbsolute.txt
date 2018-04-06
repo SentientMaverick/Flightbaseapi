@@ -1,0 +1,10 @@
+C:\Websites\Flightbaseapi\bin\Debug\netcoreapp2.0\Flightbaseapi.deps.json
+C:\Websites\Flightbaseapi\bin\Debug\netcoreapp2.0\Flightbaseapi.runtimeconfig.json
+C:\Websites\Flightbaseapi\bin\Debug\netcoreapp2.0\Flightbaseapi.runtimeconfig.dev.json
+C:\Websites\Flightbaseapi\bin\Debug\netcoreapp2.0\Flightbaseapi.dll
+C:\Websites\Flightbaseapi\bin\Debug\netcoreapp2.0\Flightbaseapi.pdb
+C:\Websites\Flightbaseapi\obj\Debug\netcoreapp2.0\Flightbaseapi.csproj.CoreCompileInputs.cache
+C:\Websites\Flightbaseapi\obj\Debug\netcoreapp2.0\Flightbaseapi.AssemblyInfoInputs.cache
+C:\Websites\Flightbaseapi\obj\Debug\netcoreapp2.0\Flightbaseapi.AssemblyInfo.cs
+C:\Websites\Flightbaseapi\obj\Debug\netcoreapp2.0\Flightbaseapi.dll
+C:\Websites\Flightbaseapi\obj\Debug\netcoreapp2.0\Flightbaseapi.pdb
